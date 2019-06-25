@@ -1,0 +1,7 @@
+public class {
+public static void main(String[] args) {
+int x;
+x = 10;
+System.out.println(" 5 + 5 = x and x= " + x );
+}
+}
